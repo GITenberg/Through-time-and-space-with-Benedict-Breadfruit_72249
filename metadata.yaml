@@ -1,0 +1,40 @@
+_repo: Through-time-and-space-with-Benedict-Breadfruit_72249
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Garrett, Randall
+    aliases:
+    - Garrett, Gordon Randall
+    - Garret, Randall
+    - Barretton, Grandall
+    birthdate: 1927
+    deathdate: 1987
+    gutenberg_agent_id: '25267'
+    url: http://www.gutenberg.org/2009/agents/25267
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Randall_Garrett
+    - https://www.gutenberg.org/ebooks/author/53466
+description: 'Consists of a series of feghoots, or shaggy dog stories, featuring puns
+  on the names of sci-fi authors of the time. Feghoots at Wikipedia: https://en.wikipedia.org/wiki/Feghoot'
+gutenberg_issued: '2023-11-28'
+identifiers:
+  gutenberg: '72249'
+language: en
+pgterms:marc905: 20231015140353barretton
+pgterms:marc906: '1962'
+pgterms:marc907: US
+production_note: Greg Weeks, Mary Meehan and the Online Distributed Proofreading Team
+  at http://www.pgdp.net
+publication_note: '  $aNew York, NY :$bZiff-Davis Publishing Company, $c1962.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Science fiction'
+- !lcsh 'American wit and humor'
+- !lcsh 'Puns and punning'
+- !lcsh 'Shaggy dog stories'
+- !lcc 'PS'
+- GITenberg
+title: Through time and space with Benedict Breadfruit
+url: http://www.gutenberg.org/ebooks/72249
