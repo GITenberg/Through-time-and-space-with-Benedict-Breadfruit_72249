@@ -1,5 +1,8 @@
 _repo: Through-time-and-space-with-Benedict-Breadfruit_72249
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 72249-h/images/cover.jpg
 creator:
   author:
     agent_name: Garrett, Randall
@@ -16,6 +19,8 @@ creator:
     - https://www.gutenberg.org/ebooks/author/53466
 description: 'Consists of a series of feghoots, or shaggy dog stories, featuring puns
   on the names of sci-fi authors of the time. Feghoots at Wikipedia: https://en.wikipedia.org/wiki/Feghoot'
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/72249#Through-time-and-space-with-Benedict-Breadfruit
 gutenberg_issued: '2023-11-28'
 identifiers:
   gutenberg: '72249'
